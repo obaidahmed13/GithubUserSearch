@@ -37,7 +37,7 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "/Users/obaidahmed/GithubUserSearch/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
